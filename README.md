@@ -6,7 +6,7 @@
 
 **Web Application Security • API Security • VAPT • Python Security Automation**
 
-*An early-career Application Security Engineer who learns by building practical security projects, documents them professionally, and demonstrates continuous improvement.*
+*Learning Application Security by building practical security projects and documenting the journey.*
 
 </div>
 
@@ -14,9 +14,10 @@
 
 ## 👨‍💻 About Me
 
-I enjoy securing modern web applications through hands-on security projects and continuous learning. My focus is on understanding application security, identifying vulnerabilities, and improving security through practical implementation.
+I enjoy learning Application Security by building practical projects, performing security assessments, and continuously improving my understanding of modern web application security.
+My goal is to develop secure software and strengthen application security through hands-on learning and practical implementation.
 
-### Areas of Interest
+### 🔗 Core Areas
 
 - Application Security
 - Web Application Security
