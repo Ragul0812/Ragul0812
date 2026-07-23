@@ -59,27 +59,32 @@ Python-based security monitoring and reporting project developed to strengthen a
 
 **Tech Stack:** Python
 
-## 🛠️ Technical Stack
+## 🛠️ Technical Expertise
 
-### Security
-- Burp Suite
-- Nmap
-- Wireshark
-- Metasploit
+### Application Security
 
-### Programming
+- Web Application Security
+- API Security
+- OWASP Top 10
+- OWASP API Security Top 10
+- Vulnerability Assessment & Penetration Testing (VAPT)
+
+### Security Automation
+
 - Python
 - Bash
+- Security Automation
 
 ### Platforms
+
 - Linux
-- Windows
 - Docker
 - Git
 
 ### Networking
+
 - HTTP/HTTPS
-- DNS
 - TCP/IP
+- DNS
 - Subnetting Concepts
 - WAF
