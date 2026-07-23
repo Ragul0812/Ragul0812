@@ -13,18 +13,19 @@ Building security-focused tools and practical solutions for modern web applicati
 My work focuses on Web Application Security, API Security, Vulnerability Assessment & Penetration Testing (VAPT), Python Security Automation, and Application Security. I enjoy transforming security concepts into real-world projects, automation tools, and hands-on learning experiences.
 ## 👨‍💻 About Me
 
-I'm a Cybersecurity graduate passionate about securing modern applications through offensive security testing and security automation.
+I build security-focused tools and practical projects that help identify, assess, and improve the security of modern web applications.
 
 My primary interests include:
 
-- 🔐 Application Security
-- 🌐 Web Application Security
-- 🔌 API Security
-- 🛡️ Vulnerability Assessment & Penetration Testing (VAPT)
-- 🐍 Python Security Automation
-- 🐧 Linux & Security Tool Development
+- Application Security
+- Web Application Security
+- API Security
+- Vulnerability Assessment & Penetration Testing (VAPT)
+- Python Security Automation
+- Security Tool Development
+- Linux
 
-I enjoy building practical projects that strengthen secure software development while continuously improving my skills through hands-on labs, Capture The Flag (CTF) challenges, and real-world security projects.
+I enjoy transforming security concepts into practical solutions through automation, offensive security testing, and continuous learning.
 </div>
 
 <!--
