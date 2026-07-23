@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1># Ragul S</h1>
+<h1> <b>Ragul S</b></h1>
 
 ### Application Security Engineer
 
