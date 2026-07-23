@@ -19,13 +19,8 @@ My goal is to develop secure software and strengthen application security throug
 
 ### 🔗 Core Areas
 
-- Application Security
-- Web Application Security
-- API Security
-- Vulnerability Assessment & Penetration Testing (VAPT)
-- Python Security Automation
-- Linux
-- Security Assessments
+- Application Security- Web Application Security- API Security
+- Vulnerability Assessment & Penetration Testing (VAPT)- Python Security Automation- Linux- Security Assessments
 
 ---
 
