@@ -4,41 +4,34 @@
 
 ### Application Security Engineer
 
-**Web Application Security • API Security • Vulnerability Assessment & Penetration Testing • Python Security Automation**
+**Web Application Security • API Security • VAPT • Python Security Automation**
+
+*An early-career Application Security Engineer who learns by building practical security projects, documents them professionally, and demonstrates continuous improvement.*
+
+</div>
 
 ---
 
-Building security-focused tools and practical solutions for modern web applications.
-
-My work focuses on Web Application Security, API Security, Vulnerability Assessment & Penetration Testing (VAPT), Python Security Automation, and Application Security. I enjoy transforming security concepts into real-world projects, automation tools, and hands-on learning experiences.
-</div>
 ## 👨‍💻 About Me
 
-I build security-focused tools and practical projects that help identify, assess, and improve the security of modern web applications.
+I enjoy securing modern web applications through hands-on security projects and continuous learning. My focus is on understanding application security, identifying vulnerabilities, and improving security through practical implementation.
 
-My primary interests include:
+### Areas of Interest
 
--Application Security
--Web Application Security
--API Security
--Vulnerability Assessment & Penetration Testing (VAPT)
--Python Security Automation
--AI-Assisted Security Tool Development
--Linux
+- Application Security
+- Web Application Security
+- API Security
+- Vulnerability Assessment & Penetration Testing (VAPT)
+- Python Security Automation
+- Linux
+- Security Assessments
 
-I enjoy transforming security concepts into practical solutions through automation, offensive security testing, and continuous learning.
+---
 
-<!--
-**Ragul0812/Ragul0812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Current Focus
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building practical Application Security projects
+- Mastering OWASP Top 10 & OWASP API Security Top 10
+- Strengthening Web & API Penetration Testing skills
+- Developing Python automation for security workflows
+- Learning GRC Fundamentals for understanding organization's standards & compliances
