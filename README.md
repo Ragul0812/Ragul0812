@@ -31,7 +31,7 @@ My goal is to develop secure software and strengthen application security throug
 
 - Building practical Application Security projects
 - Mastering OWASP Top 10 & OWASP API Security Top 10
-- Strengthening Web & API Penetration Testing skills
+- Practicing Web & API Penetration Testing through hands-on labs
 - Developing Python automation for security workflows
 - Learning GRC Fundamentals for understanding organization's standards & compliances
 
@@ -41,7 +41,7 @@ My goal is to develop secure software and strengthen application security throug
 
 GUI-based reconnaissance platform that automates subdomain discovery, live host detection, port scanning, and attack surface analysis for web applications.
 
-**Tech:** Python • Networking • Reconnaissance • GUI
+**Tech Stack:** Python • Networking • Reconnaissance • GUI
 
 ---
 
@@ -49,7 +49,7 @@ GUI-based reconnaissance platform that automates subdomain discovery, live host 
 
 Full-stack Capture The Flag platform with secure authentication, challenge management, real-time scoring, and Docker-based deployment.
 
-**Tech:** Node.js • Express • SQLite • Docker
+**Tech Stack:** Node.js • Express • SQLite • Docker
 
 ---
 
@@ -57,4 +57,29 @@ Full-stack Capture The Flag platform with secure authentication, challenge manag
 
 Python-based security monitoring and reporting project developed to strengthen automation and monitoring concepts.
 
-**Tech:** Python
+**Tech Stack:** Python
+
+## 🛠️ Technical Stack
+
+### Security
+- Burp Suite
+- Nmap
+- Wireshark
+- Metasploit
+
+### Programming
+- Python
+- Bash
+
+### Platforms
+- Linux
+- Windows
+- Docker
+- Git
+
+### Networking
+- HTTP/HTTPS
+- DNS
+- TCP/IP
+- Subnetting Concepts
+- WAF
