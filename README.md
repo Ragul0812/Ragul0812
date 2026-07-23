@@ -34,3 +34,27 @@ My goal is to develop secure software and strengthen application security throug
 - Strengthening Web & API Penetration Testing skills
 - Developing Python automation for security workflows
 - Learning GRC Fundamentals for understanding organization's standards & compliances
+
+## 🚀 Featured Projects
+
+### 🔍 GUI-Based Web Reconnaissance Framework
+
+GUI-based reconnaissance platform that automates subdomain discovery, live host detection, port scanning, and attack surface analysis for web applications.
+
+**Tech:** Python • Networking • Reconnaissance • GUI
+
+---
+
+### 🏁 CTF Platform
+
+Full-stack Capture The Flag platform with secure authentication, challenge management, real-time scoring, and Docker-based deployment.
+
+**Tech:** Node.js • Express • SQLite • Docker
+
+---
+
+### 📊 Python Security Monitoring Project
+
+Python-based security monitoring and reporting project developed to strengthen automation and monitoring concepts.
+
+**Tech:** Python
