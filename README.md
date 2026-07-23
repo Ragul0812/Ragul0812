@@ -4,7 +4,7 @@
 
 ### Application Security Engineer
 
-**Web Application Security • API Security • VAPT • Python Security Automation**
+**Web Application Security • API Security • VAPT • Security Automation**
 
 *Learning Application Security by building practical security projects and documenting the journey.*
 
@@ -19,8 +19,8 @@ My goal is to develop secure software and strengthen application security throug
 
 ### 🔗 Core Areas
 
-- Application Security- Web Application Security- API Security
-- Vulnerability Assessment & Penetration Testing (VAPT)- Python Security Automation- Linux- Security Assessments
+- Application Security - Web Application Security - API Security
+- Vulnerability Assessment & Penetration Testing (VAPT) - Python Security Automation - Linux - Security Assessments
 
 ---
 
